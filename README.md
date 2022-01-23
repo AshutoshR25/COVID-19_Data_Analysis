@@ -20,7 +20,13 @@ There are 2 xlsx files named **covid_deaths and covid_vaccinations.**
 4. Open the file **Covid_data_Analysis_v1.sql** in the editor and Run the queries.
 
 
-## We have created views for further analysis of data as well.
+## I have created views for further analysis of data as well.
+
+## Further Visualizations 
+In order to observe the data with a deeper sense and get insights out of it.
+- Here is a visualization created on **Tableau Public**
+**Link -**
+- https://public.tableau.com/app/profile/ashutosh.rajput/viz/Covid-19DataDashboard_16429683486140/Covid_Dashboard
 
 Thankyou.
 Created By
