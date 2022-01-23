@@ -10,6 +10,7 @@ It demostrates my abilities in using
 
 ## About Datasets Used -
 There are 2 xlsx files named **covid_deaths and covid_vaccinations.**
+The data is between the tenure of **December 2019 to January 15th 2021.**
 
   - The queries will best run in SSMS - SQL Server Management Studio.
 
