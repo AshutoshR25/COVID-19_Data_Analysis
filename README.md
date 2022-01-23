@@ -25,8 +25,8 @@ There are 2 xlsx files named **covid_deaths and covid_vaccinations.**
 ## Further Visualizations 
 In order to observe the data with a deeper sense and get insights out of it.
 - Here is a visualization created on **Tableau Public**
-**Link -**
-- https://public.tableau.com/app/profile/ashutosh.rajput/viz/Covid-19DataDashboard_16429683486140/Covid_Dashboard
+- **Link -** https://public.tableau.com/app/profile/ashutosh.rajput/viz/Covid-19DataDashboard_16429683486140/Covid_Dashboard
+
 
 Thankyou.
 Created By
